@@ -1,0 +1,16 @@
+The disabled components represent functionality that will be delivered in the next product presentations.
+
+The credentials given launches the product from the view of a superuser that is built-in for showcasing purposes.
+
+Currently only this superuser can be an owner of a campaign allowing him to view the Main Statistics about a specific campaign.
+
+The superuser can also register a new client and it is possible to login.
+
+The functionality to assign a campign to the new client is still being developed.
+
+This newly registered client will not have any campaings assigned to him.
+
+The system should running smoothly on at least 2 gigabytes of RAM.
+
+Thank you for trialing our product. 
+
